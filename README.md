@@ -61,8 +61,7 @@ The system classifies text into:
 ## 📊 Dataset
 
 ### Sources:
-- Hate Speech Offensive Dataset (`tdavidson`)
-- Custom Multilingual Dataset
+- Code-Mixed Hinglish Hate Speech Detection Dataset from  Kaggle
 
 ### Preprocessing:
 - Lowercasing  
